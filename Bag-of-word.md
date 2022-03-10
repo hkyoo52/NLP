@@ -37,8 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/63588046/157574105-eda1edce-3ecc-4c0a-93c5-8ed1e3aa7273.png)
 
+#### 예시
+![image](https://user-images.githubusercontent.com/63588046/157633476-2e5850a3-ab17-4d35-9342-51b7975923b1.png)
 
-
+![image](https://user-images.githubusercontent.com/63588046/157634129-9520cd3e-ba2c-4db7-a05f-f800c11e1511.png)
 
 
 
