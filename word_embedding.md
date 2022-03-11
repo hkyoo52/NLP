@@ -12,3 +12,19 @@
 ![image](https://user-images.githubusercontent.com/63588046/157636881-2ebfe235-e9ae-4c07-a21e-9c05efd44567.png)
 
 
+* 의미론적 반응 아주 좋음  Ex. 단어 벡터들은 반의어 잘 표현 가능 (이모-이모부 = 엄마-아빠 = 여자-남자)
+
+* 기계번역
+* 감정 분석
+
+
+#### GloVe
+* P : 동시에 한문장에 두 단어의 단어쌍이 몇번 등장했는지 확률
+* u,v : 단어의 embedding vector
+
+=> embedding vector 내적이 logP와 같아지도록 학습
+
+![image](https://user-images.githubusercontent.com/63588046/157788366-20f3e8ef-1750-4619-b52e-d67bb48594ca.png)
+
+
+**wordvec, glove는 공식 사이트 존재 -> 코드랑 pretrained 볼 수 있음**
