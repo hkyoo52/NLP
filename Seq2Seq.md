@@ -4,3 +4,8 @@
 * EoS : Decoder 마지막에 나오는 output
 
 ![image](https://user-images.githubusercontent.com/63588046/157810887-d9fdbf0a-4c3b-4891-9d52-2ee24069c793.png)
+
+
+#### Attention
+* 이전 방식은 예전에 학습한거 잘 기억 못함
+* 
