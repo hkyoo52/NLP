@@ -28,7 +28,6 @@
 ![image](https://user-images.githubusercontent.com/63588046/157834225-7d7dd687-00da-4abb-a706-41ea82e2547b.png)
 
 #### 행렬 기본 의미
-![image](https://user-images.githubusercontent.com/63588046/157835676-eadf708e-768a-4514-9f29-1c0bd1988129.png)
-
+![image](https://user-images.githubusercontent.com/63588046/157835776-056a127c-8584-444a-991f-7d6bf8616dc7.png)
 
 
