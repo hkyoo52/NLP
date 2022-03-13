@@ -22,12 +22,26 @@
 
 #### Encoder에서 나온 값과 decoder에서 나온 가중치로 유사도 구하는 방식
 
-* 내적
-* general 내적
+* dot
+* general
+* concat : 입력벡터를 concat 한 후 가중치 내적, non-linear, 가중치 내적 => scalar 값 만듬
 
-![image](https://user-images.githubusercontent.com/63588046/157834225-7d7dd687-00da-4abb-a706-41ea82e2547b.png)
+![image](https://user-images.githubusercontent.com/63588046/158050701-3fb7526e-345a-4e94-abfa-293cd151d206.png)
 
 #### 행렬 기본 의미
 ![image](https://user-images.githubusercontent.com/63588046/157835776-056a127c-8584-444a-991f-7d6bf8616dc7.png)
+
+
+## Attention 모델의 장점
+* 어떤 부분에 집중할지 정함
+* 긴 문장에대해 해결
+* gradient vanishing 문제 해결 (한번에 전부를 보기 때문에)
+* decoder에서 어느 부분을 집중할지 가르쳐줌
+
+
+
+
+
+
 
 
