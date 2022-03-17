@@ -27,10 +27,22 @@ concat -> linear
 ![image](https://user-images.githubusercontent.com/63588046/158749809-385943fd-33e3-443f-abac-967af4d3152f.png)
 
 
+## ADD & Norm
+* residual block 사용해서 ADD & Norm layer에서 2개 그대로 더함 (dimention 유지)
+* Norm같은 경우 batchnorm해서 평균 0, 분산 1로 만들어줌
+
+![image](https://user-images.githubusercontent.com/63588046/158780233-5a303cdf-82a2-45ba-982c-387913c18630.png)
+
+#### layer Normalization
+* Batch Norm한 결과를 linear 식에 넣음
+
+![image](https://user-images.githubusercontent.com/63588046/158782256-fb18c5da-ad93-4765-a2a9-2c11d9243935.png)
 
 
 
-
+## Positioning encoding
+* 그냥 attention을 하면 "I go home"과 "home go I"는 동일한 결과가 나옴
+* 위치에 따라 명확히 비교 가능하는 값을 더함
 
 
 
