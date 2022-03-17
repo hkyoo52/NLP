@@ -17,8 +17,7 @@
 * 위 과정 반복
 
 * 총 단어 개수만큼 score에서 나눔
-* 단어 수가 길어질수록 score 점수 낮아야함
-* 너무 score가 커지는 거를 방지하기
+* 예측된 단어의 길이가 짧은 것 방지
 
 ![image](https://user-images.githubusercontent.com/63588046/158719444-e407b794-5bc7-4a95-92e7-12476b8d8d85.png)
 
