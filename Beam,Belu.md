@@ -37,7 +37,13 @@
 * 문장 순서가 막 섞여 있어도 100% 정확도가 발생한다.
 
 #### BLEU score
-* N-gram : 
+* N-gram : N개의 단어를 하나의 토큰으로 봄    Ex. 4
+* 아래 식은 N=4로 두었을때 계산하는 식
+
+![image](https://user-images.githubusercontent.com/63588046/158722291-4e8dc305-7c12-44d1-a2cf-95deac19d9ec.png)
+
+
+![image](https://user-images.githubusercontent.com/63588046/158727949-8abaab47-f4d8-4883-a9d4-fea77d2088de.png)
 
 
 
