@@ -3,7 +3,7 @@
 * 근데 되돌아 가기 어려움
 * 총 V^t만큼 탐색 필요 (V : 단어의 수, t : step 수)
 
-![image](https://user-images.githubusercontent.com/63588046/158717874-c2424918-807c-458f-bf93-6f6c7cc7e21c.png)
+![image](https://user-images.githubusercontent.com/63588046/158728143-52b59418-4dbe-4be7-bbbd-7fadd70b22af.png)
 
 
 ## Beam search
@@ -42,8 +42,7 @@
 
 ![image](https://user-images.githubusercontent.com/63588046/158722291-4e8dc305-7c12-44d1-a2cf-95deac19d9ec.png)
 
-
-![image](https://user-images.githubusercontent.com/63588046/158727949-8abaab47-f4d8-4883-a9d4-fea77d2088de.png)
+![image](https://user-images.githubusercontent.com/63588046/158728181-e842923a-b9f4-4531-8356-799edf62d996.png)
 
 
 
