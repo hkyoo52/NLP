@@ -45,5 +45,12 @@ concat -> linear
 * 위치에 따라 명확히 비교 가능하는 값을 더함
 
 
+## decoder
+* 문장이 나와야 하는 단어 이전에 정답 레이블을 넣어서 동일하게 score를 만든다.(masked 적용)
+* encoder에서 나온 값이 key, value로 들어감
+* score 값으로 나온 것을 value로 사용
+* 나온 벡터는 이전에 있는 단어와 encoder의 결과 2개를 모두 사용
 
+#### mask
+* 이후에 있는 단어는 -무한으로 만듬
 
